@@ -1,2 +1,4 @@
 /backend/target/
 /frontend/target/
+
+/**/.env
